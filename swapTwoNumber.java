@@ -9,10 +9,10 @@ public class swapTwoNumber {
     int a=scn.nextInt();
         System.out.print("Enter Second Number :-");
     int b=scn.nextInt();
-        System.out.println("Before Swap the Number is:- "+" A = "+a+" and "+" B = "+b);
+        System.out.println("Before Swap the Number is:- A = "+a+" and "+" B = "+b);
         int c=a;
             a=b;
             b=c;
-        System.out.println("After  Swap the Number is:- "+" A = "+a+" and "+" B = "+b);
+        System.out.println("After  Swap the Number is:- A = "+a+" and "+" B = "+b);
 }
 }
